@@ -98,6 +98,7 @@ nav a:hover, [href="#top"]:hover {
 
 h1 {
 	color: #007d7b;
+	text-transform: uppercase;
 	font-size: 3em;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -272,6 +273,7 @@ input[type="submit"] {
 	width: 60%;
 	margin-bottom: 10px;
 	min-width: 180px;
+	transition: background-color 0.3s ease;
 }
 
 footer {
@@ -322,5 +324,6 @@ footer {
 
 	h1 {
 		text-align: center;
+		font-size: 3vb;
 	}
 }
