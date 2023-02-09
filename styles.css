@@ -70,6 +70,10 @@ nav {
 	justify-content: right;
 }
 
+nav h2 {
+	display: none;
+}
+
 nav a {
 	font-size: 1.5em;
 	text-decoration: none;
